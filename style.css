@@ -16,6 +16,7 @@
 
 .imagem-cabecalho{
     width: 25%;
+    height: 200px;
 }
 .cabecalho-item{
     display: inline-block;
